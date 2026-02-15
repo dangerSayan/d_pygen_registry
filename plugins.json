@@ -1,0 +1,8 @@
+{
+  "fastapi": {
+    "name": "fastapi",
+    "repo": "https://github.com/dangerSayan/d_pygen_fastapi_plugin",
+    "branch": "main",
+    "description": "FastAPI production template"
+  }
+}
