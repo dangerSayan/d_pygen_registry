@@ -10,5 +10,11 @@
     "branch": "main",
     "version": "1.0.0",
     "description": "Flask production template"
+  },
+  "hello-world": {
+    "repo": "https://github.com/dangerSayan/d_pygen_hello_world_plugin",
+    "branch": "main",
+    "description": "Hello world test plugin for d_Pygen",
+    "version": "1.0.0"
   }
 }
